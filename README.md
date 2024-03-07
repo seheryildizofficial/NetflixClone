@@ -1,0 +1,22 @@
+# Netflix Clone Projesi
+
+Proje, TMDB (The Movie Database) API'sini kullanarak film verilerini çeker.
+Sayfa yönlendirmeleri için React Router Dom kullanılmıştır.
+Durum yönetimi için Redux kullanılmıştır.
+Redux Thunk, asenkron işlemleri yönetmek için kullanılmıştır.
+Bootstrap, kullanıcı arayüzü tasarımında kullanılmıştır.
+@splidejs/react-splide, görsel içeriklerin kaydırılması için kullanılmıştır.
+Millify, sayıları daha okunabilir bir formata dönüştürmek için kullanılmıştır.
+
+# Kütüphaneler
+
+- react-router-dom
+- axios
+- bootstrap
+- @splidejs/react-splide
+- redux
+- react-redux
+- redux-thunk
+
+![](/public/netflix.gif)
+# NetflixClone
