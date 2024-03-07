@@ -1,4 +1,4 @@
-# Netflix Clone Projesi
+# Netflix Clone 
 
 - Proje, TMDB (The Movie Database) API'sini kullanarak film verilerini çeker. <br/>
 - Sayfa yönlendirmeleri için React Router Dom kullanılmıştır. <br/>
