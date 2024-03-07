@@ -1,6 +1,6 @@
 # Netflix Clone Projesi
 
-· Proje, TMDB (The Movie Database) API'sini kullanarak film verilerini çeker. <br/>
+- Proje, TMDB (The Movie Database) API'sini kullanarak film verilerini çeker. <br/>
 · Sayfa yönlendirmeleri için React Router Dom kullanılmıştır. <br/>
 · Durum yönetimi için Redux kullanılmıştır. <br/>
 · Redux Thunk, asenkron işlemleri yönetmek için kullanılmıştır. <br/>
