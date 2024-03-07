@@ -8,7 +8,7 @@ Bootstrap, kullanıcı arayüzü tasarımında kullanılmıştır.
 @splidejs/react-splide, görsel içeriklerin kaydırılması için kullanılmıştır.
 Millify, sayıları daha okunabilir bir formata dönüştürmek için kullanılmıştır.
 
-# Kütüphaneler
+# Teknolojiler
 
 - react-router-dom
 - axios
